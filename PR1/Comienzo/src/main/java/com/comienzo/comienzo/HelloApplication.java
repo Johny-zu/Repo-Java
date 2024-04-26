@@ -1,4 +1,4 @@
-package com.inicial.comiencofx;
+package com.comienzo.comienzo;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

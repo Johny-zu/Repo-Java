@@ -4,10 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.inicial</groupId>
-    <artifactId>ComienzoFX</artifactId>
+    <groupId>com.comienzo</groupId>
+    <artifactId>Comienzo</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>ComienzoFX</name>
+    <name>Comienzo</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.inicial.comienzofx/com.inicial.comienzofx.HelloApplication</mainClass>
+                            <mainClass>com.comienzo.comienzo/com.comienzo.comienzo.HelloApplication</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>
