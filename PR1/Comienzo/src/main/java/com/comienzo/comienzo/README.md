@@ -25,3 +25,12 @@ Los nodos son las funciones como los botones, los textFields entre otros.
 El metodo title, le da un titulo a la ventana, el metodo de scene le da una vista a esta parte visual para que se pueda ver lo que contiene cada nodo y la estructura de la pagina como va quedando y por ultimo vemos el meotod show que hara que esto pueda ser visible para el usuario, es una impresion de ventana.
 
 ## Stop
+Este como se puede observar sera el ultimo metodo en ejecutarse para terminar los procesos.
+
+Esta por lo general ya esta activa en la interfaz grafica que es cuando pulsamos la tacha de la esquina superior derecha para cerrar el programa y terminar la ejecucion de este.
+
+Sirve para hacer .close() de las cosas que trabajanmos, como cerrar una BD, o asi.
+
+Esta hace solo el metodo que se encuentra mensajeado en el public void Stop
+
+

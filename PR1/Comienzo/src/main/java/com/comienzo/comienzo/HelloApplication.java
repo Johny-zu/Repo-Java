@@ -26,6 +26,11 @@ public class HelloApplication extends Application {
         stage.show();
     }
 
+    public void Stop(){
+        System.out.println("Metodo Stop");
+        //Platform.exit();
+    }
+
     public static void main(String[] args) {
         launch();
     }
