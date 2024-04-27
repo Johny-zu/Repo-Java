@@ -16,7 +16,12 @@ Aqui el api de javaFX esta lista para trabar los componentes de interfaz grafica
 
 Crea las cosas como las imagenes, formato, nodos y lo que se ocupe dentro de la interfaz grafica.
 
+Tambien vermos que en start funciona con el controlador que se encuntra por default dentro de la clase.
+
 El metodo start se maneja metodos como el stage que es lo que hace la ventana, esta maneja un titulo, una escena y muestra en una ventana que es el stage.
 
 Los nodos son las funciones como los botones, los textFields entre otros.
 
+El metodo title, le da un titulo a la ventana, el metodo de scene le da una vista a esta parte visual para que se pueda ver lo que contiene cada nodo y la estructura de la pagina como va quedando y por ultimo vemos el meotod show que hara que esto pueda ser visible para el usuario, es una impresion de ventana.
+
+## Stop
