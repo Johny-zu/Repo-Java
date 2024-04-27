@@ -1,4 +1,4 @@
-# Metodos
+# Ciclos de vida
 Hablaremos aqui de como son ingresados paso a paso los metodos y como son ejecutados por el programa en tema de prioridad.
 
 ## Constructor
@@ -33,4 +33,9 @@ Sirve para hacer .close() de las cosas que trabajanmos, como cerrar una BD, o as
 
 Esta hace solo el metodo que se encuentra mensajeado en el public void Stop
 
+## Main
+Despues de ver como funciona y hacer ejercicios basicos nos damos cuenta que pues no correra la clase y no hara nada para que funcione a menos que tengamos el metodo main, este metodo contiene ciertas cosas que debemos conocer para hacer uso correcto de esta.
 
+Los metodos que usa la clase main varios, estos haran funcoinar las cosas de manera correcta para que no halla conflictos y el codigo pueda ser ejecutado de manera correcta, los metodos que usa o puede usar la clase main serian los siguientes:
+
+launch: este metodo hace que podamos lanzar la parte grafica y todo.
