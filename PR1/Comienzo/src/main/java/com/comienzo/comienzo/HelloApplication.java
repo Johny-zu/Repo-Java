@@ -8,12 +8,13 @@ import javafx.stage.Stage;
 import java.io.IOException;
 
 public class HelloApplication extends Application {
-    /*
-    * Primero en ser ejecutado a la hora de inicializar el proyecto
-    * */
+    public HelloApplication(){
+        System.out.println("Metodo constructor");
+    }
+
     @Override
     public void init(){
-
+        System.out.println("Metodo init");
     }
 
     @Override
