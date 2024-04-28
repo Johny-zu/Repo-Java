@@ -1,4 +1,4 @@
-package com.ib.BorderPane;
+package com.ib.interfazbasica.BorderPane;
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;

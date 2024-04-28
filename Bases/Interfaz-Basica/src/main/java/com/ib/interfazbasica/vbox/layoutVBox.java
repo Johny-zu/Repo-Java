@@ -1,4 +1,4 @@
-package com.ib.vbox;
+package com.ib.interfazbasica.vbox;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

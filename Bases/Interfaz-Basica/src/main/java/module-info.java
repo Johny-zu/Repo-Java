@@ -3,6 +3,7 @@ module com.ib.interfazbasica {
     requires javafx.fxml;
 
 
-    opens com.ib.BorderPane to javafx.fxml;
-    exports com.ib.BorderPane;
+    opens com.ib.interfazbasica.BorderPane to javafx.fxml;
+    exports com.ib.interfazbasica.BorderPane;
+    exports com.ib.interfazbasica.vbox;
 }
