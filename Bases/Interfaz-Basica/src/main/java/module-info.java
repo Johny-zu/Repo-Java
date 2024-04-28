@@ -5,5 +5,5 @@ module com.ib.interfazbasica {
 
     opens com.ib.interfazbasica.BorderPane to javafx.fxml;
     exports com.ib.interfazbasica.BorderPane;
-    exports com.ib.interfazbasica.vbox;
+    exports com.ib.interfazbasica.VHbox;
 }
