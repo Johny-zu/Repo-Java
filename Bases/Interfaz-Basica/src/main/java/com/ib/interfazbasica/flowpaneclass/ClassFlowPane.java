@@ -18,7 +18,7 @@ public class ClassFlowPane extends Application {
 
         for(int i = 0; i < btn.length; i++){
             btn[i] = new Button("Boton " + (i+1));
-            root.getChildren().add(btn[i]); 
+            root.getChildren().add(btn[i]);
         }
 
         Scene scene = new Scene(root, 300, 250);
