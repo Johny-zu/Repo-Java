@@ -1,4 +1,4 @@
-package com.ib.interfazbasica;
+package com.ib.Botones;
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
