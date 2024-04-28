@@ -17,3 +17,5 @@ boton para aceptar y salir.
 Nos dejara tener el listado de todos los nodos hijos pertenecientes a ese nodo.
 (Se parece a un constructor)
 
+La diferencia seria que se puede estar metiendo en el orden que quieras para un acomodo mejor de los elementos.
+El que usamos ahora es un vertical Box
