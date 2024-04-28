@@ -8,8 +8,6 @@ import static javafx.application.Application.launch;
 public class layoutVBox {
 
     public void start(Stage primaryStage){
-
-
         VBox root = new VBox();
         Scene scene = new Scene(root, 300, 300);
 
