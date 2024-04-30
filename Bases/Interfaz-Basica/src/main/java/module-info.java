@@ -8,4 +8,5 @@ module com.ib.interfazbasica {
     exports com.ib.interfazbasica.VHbox;
     exports com.ib.interfazbasica.flowpaneclass;
     exports com.ib.interfazbasica.EjLayouts;
+    exports com.ib.interfazbasica.Calculadora;
 }
