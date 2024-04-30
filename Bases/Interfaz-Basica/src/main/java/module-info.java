@@ -7,4 +7,5 @@ module com.ib.interfazbasica {
     exports com.ib.interfazbasica.BorderPane;
     exports com.ib.interfazbasica.VHbox;
     exports com.ib.interfazbasica.flowpaneclass;
+    exports com.ib.interfazbasica.EjLayouts;
 }
