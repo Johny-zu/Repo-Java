@@ -1,4 +1,4 @@
-# Proycetos
+# Proyectos
 
 ## Comienzo
 El comienzo es una interfaz generada automaticamente y explicación de la base de como funciona la estrucutra basica de los programas de javaFX
