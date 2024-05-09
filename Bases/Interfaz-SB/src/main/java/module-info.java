@@ -6,4 +6,7 @@ module com.isb.interfazsb {
 
     opens com.isb.interfazsb to javafx.fxml;
     exports com.isb.interfazsb;
+
+    opens com.isb.ComponentesGUI to javafx.fxml;
+    exports com.isb.ComponentesGUI;
 }
