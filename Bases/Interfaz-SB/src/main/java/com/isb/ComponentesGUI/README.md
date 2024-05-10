@@ -21,3 +21,6 @@ Esto ira en el code de Scene builder con el fin de que se pueda responder, dentr
     - FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("componentes-view.fxml"))
 
  En este objeto se hace con el fin de que pueda tomar del directorio de resourse el FXML y lo que viene en comiilas como se puede intuir, es el nombre del archivo FXML.
+
+# Información del codigo
+En esta practica haremos una interfaz usando los controladores basicos
