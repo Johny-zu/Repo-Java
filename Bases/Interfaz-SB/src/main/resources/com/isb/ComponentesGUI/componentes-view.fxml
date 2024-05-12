@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
 
@@ -19,7 +20,25 @@
       </HBox>
       <HBox fx:id="bloque1" layoutX="35.0" layoutY="100.0" prefHeight="252.0" prefWidth="531.0" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="100.0">
          <children>
-            <VBox prefHeight="200.0" prefWidth="180.0" />
+            <VBox alignment="TOP_CENTER" prefHeight="200.0" prefWidth="180.0">
+               <children>
+                  <Label alignment="CENTER" prefHeight="35.0" prefWidth="179.0" text="Apartado de labels">
+                     <font>
+                        <Font name="Arial" size="14.0" />
+                     </font></Label>
+                  <Label contentDisplay="TOP" text="Chili wili">
+                     <graphic>
+                        <ImageView fitHeight="114.0" fitWidth="146.0" nodeOrientation="INHERIT" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@01.jpeg" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                     <font>
+                        <Font size="14.0" />
+                     </font></Label>
+                  <Label text="En ocaciones los textos pueden ser tan largos que el lable no podra acomdarlos a menos que usemos grap text" wrapText="true" />
+               </children></VBox>
             <Separator orientation="VERTICAL" prefHeight="252.0" prefWidth="0.0" />
             <VBox prefHeight="200.0" prefWidth="180.0" />
             <Separator orientation="VERTICAL" prefHeight="252.0" prefWidth="4.0" />
