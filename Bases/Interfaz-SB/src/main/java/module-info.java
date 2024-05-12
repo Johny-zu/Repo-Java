@@ -3,6 +3,7 @@ module com.isb.interfazsb {
     requires javafx.fxml;
 
     requires org.controlsfx.controls;
+    requires java.desktop;
 
     opens com.isb.interfazsb to javafx.fxml;
     exports com.isb.interfazsb;

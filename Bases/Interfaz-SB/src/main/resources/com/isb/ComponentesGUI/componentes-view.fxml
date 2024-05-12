@@ -40,7 +40,13 @@
                   <Label text="En ocaciones los textos pueden ser tan largos que el lable no podra acomdarlos a menos que usemos grap text" wrapText="true" />
                </children></VBox>
             <Separator orientation="VERTICAL" prefHeight="252.0" prefWidth="0.0" />
-            <VBox prefHeight="200.0" prefWidth="180.0" />
+            <VBox alignment="TOP_CENTER" prefHeight="200.0" prefWidth="180.0">
+               <children>
+                  <Button fx:id="btn1" mnemonicParsing="false" text="Button" />
+                  <Button fx:id="btn2" mnemonicParsing="false" text="Button" />
+                  <Button fx:id="btn3" mnemonicParsing="false" text="Button" />
+                  <Button fx:id="btn4" mnemonicParsing="false" onAction="#eventButton" text="Button" />
+               </children></VBox>
             <Separator orientation="VERTICAL" prefHeight="252.0" prefWidth="4.0" />
             <VBox prefHeight="200.0" prefWidth="180.0" />
          </children></HBox>
