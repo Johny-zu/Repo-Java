@@ -48,7 +48,13 @@
                   <Button fx:id="btn4" mnemonicParsing="false" onAction="#eventButton" text="Button" />
                </children></VBox>
             <Separator orientation="VERTICAL" prefHeight="252.0" prefWidth="4.0" />
-            <VBox prefHeight="200.0" prefWidth="180.0" />
+            <VBox prefHeight="200.0" prefWidth="180.0">
+               <children>
+                  <TextField fx:id="txt1" onKeyTyped="#eventKey" promptText="Ingrese texto" />
+                  <TextField fx:id="txt2" onKeyTyped="#eventKey" promptText="Ingrese un valor" />
+                  <TextField fx:id="txt3" onKeyTyped="#eventKey" />
+                  <PasswordField fx:id="txt4" onKeyTyped="#eventKey" promptText="Ingresa contraseña" />
+               </children></VBox>
          </children></HBox>
    </children>
 </AnchorPane>
