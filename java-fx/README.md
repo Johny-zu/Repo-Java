@@ -1,3 +1,8 @@
+# JavaFX
+Aqui haremos practicas con javafx y explicaremos los conceptos para entender como hacer aplicaciones visuales usando javaFX
+
+Cada carpeta sera formas de explicar paso a paso cada funcion que se hara
+
 # Proyectos
 
 ## Comienzo
@@ -8,3 +13,7 @@ Aqui hablamaremos sobre varias cosas sobre la creacion base de la interfaz grafi
 
 ## Intefaz-SB
 Aqui hablaremos sobre varias cosas usando la herramienta de interfaz grafica scene builder usando archivos .FXML
+
+
+## Documentacion
+https://openjfx.io/
